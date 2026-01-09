@@ -1,2 +1,2 @@
-# terraform-gcp
-exemplo de configuração terraform para o cloud provider Google Cloud
+# terraform
+Exemplo de configuração terraform para alguns cloud providers
